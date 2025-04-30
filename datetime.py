@@ -30,4 +30,3 @@ import time
 while datetime.now() < alarm_time:
     time.sleep(10)
     print("⏰ Сэрүүлэг: Цаг боллоо!")
-    
